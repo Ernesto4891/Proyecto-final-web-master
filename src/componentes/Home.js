@@ -3,6 +3,7 @@ import { ProductsContext } from "../context/ProductContext";
 import Products from "./Products";
 import Header from "./Header";
 import Cart from "./Cart";
+import Footer from "./Footer"
 
 export default function Home(){
 
@@ -30,6 +31,7 @@ export default function Home(){
         <Header />
         <Products/>
         <Cart />
+        <Footer/>
       </>
  
   );
