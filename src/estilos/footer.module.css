@@ -3,7 +3,8 @@ footer {
  justify-content:center;
  align-items: center;
  flex-direction:column;
- background-color: rgb(109, 103, 103);
+ background-color: #6d6767;
+ margin-top:15px;
 }
 
 .barekMusic {
@@ -16,6 +17,7 @@ footer {
  font-weight: 500;
  margin: 0px;
 }
+
 .msgAutor {
  text-align:center; 
  font-weight: 500; 
@@ -30,5 +32,4 @@ footer {
  font-size: 20px;
  gap: 20px;
  padding-bottom: 5px;
-
 }
