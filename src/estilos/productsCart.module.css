@@ -23,6 +23,7 @@
   width: 160px;
   height: 280px;
   box-sizing: border-box;
+  object-fit: contain;
 }
    
 .suprButton {
